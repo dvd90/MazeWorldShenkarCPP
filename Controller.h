@@ -13,7 +13,7 @@ class Controller
 public:
     Controller(){};
     ~Controller(){};
-    void Play();
+    void Demo();
     void saveMaze(vector<int> toCompress);
     void loadMaze(){};
 

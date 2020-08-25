@@ -1,6 +1,6 @@
 #include "Controller.h"
 
-void Controller::Play()
+void Controller::Demo()
 {
     // ask for name
     string name = view->getName();
