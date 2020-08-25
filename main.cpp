@@ -4,7 +4,7 @@
 int main()
 {
     std::shared_ptr<Controller> game(new Controller());
-    game->Play();
+    game->Demo();
 
     return 0;
 }
