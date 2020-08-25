@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="maze_test_master" targetName="maze_test_master" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9d59150-b530-4ab6-a3b3-bb7f7455af54" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="nnauze3o" />
+  </component>
+  <component name="ProjectId" id="1g8KlMbpFtA7pzPNTSCmCRU5hXS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="maze_test_master" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="maze_test_master" TARGET_NAME="maze_test_master" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="maze_test_master" RUN_TARGET_NAME="maze_test_master">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9d59150-b530-4ab6-a3b3-bb7f7455af54" name="Default Changelist" comment="" />
+      <created>1597490929535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597490929535</updated>
+      <workItem from="1597490932095" duration="76000" />
+      <workItem from="1597491010515" duration="30697000" />
+      <workItem from="1597755238436" duration="20236000" />
+      <workItem from="1597936445679" duration="66305000" />
+      <workItem from="1598197482865" duration="24241000" />
+      <workItem from="1598340936880" duration="5567000" />
+      <workItem from="1598346723415" duration="21977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2008" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1598348811592">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state x="2008" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598348811592" />
+    <state x="1978" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598110332070">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state x="1978" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598110332070" />
+    <state x="2003" y="71" key="#xdebugger.evaluate" timestamp="1598129674004">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state x="2003" y="71" key="#xdebugger.evaluate/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598129674004" />
+    <state width="537" height="646" key="DebuggerActiveHint" timestamp="1598369421938">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state width="537" height="646" key="DebuggerActiveHint/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598369421938" />
+    <state width="1878" height="239" key="GridCell.Tab.0.bottom" timestamp="1598373902706">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="239" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598373902706" />
+    <state width="1398" height="134" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597753682694" />
+    <state width="1878" height="239" key="GridCell.Tab.0.center" timestamp="1598373902704">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="239" key="GridCell.Tab.0.center/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598373902704" />
+    <state width="1398" height="134" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1597753682693" />
+    <state width="1878" height="239" key="GridCell.Tab.0.left" timestamp="1598373902688">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="239" key="GridCell.Tab.0.left/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598373902688" />
+    <state width="1398" height="134" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1597753682693" />
+    <state width="1878" height="239" key="GridCell.Tab.0.right" timestamp="1598373902705">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="239" key="GridCell.Tab.0.right/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598373902705" />
+    <state width="1398" height="134" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1597753682694" />
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom" timestamp="1598370212428">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.bottom/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598370212428" />
+    <state width="1398" height="134" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1597753682695" />
+    <state width="1878" height="348" key="GridCell.Tab.1.center" timestamp="1598370212427">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.center/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598370212427" />
+    <state width="1398" height="134" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1597753682694" />
+    <state width="1878" height="348" key="GridCell.Tab.1.left" timestamp="1598370212426">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.left/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598370212426" />
+    <state width="1398" height="134" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1597753682694" />
+    <state width="1878" height="348" key="GridCell.Tab.1.right" timestamp="1598370212427">
+      <screen x="1280" y="-82" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="348" key="GridCell.Tab.1.right/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598370212427" />
+    <state width="1398" height="134" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1597753682695" />
+    <state x="417" y="196" width="670" height="497" key="search.everywhere.popup" timestamp="1598291477999">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="417" y="196" width="670" height="497" key="search.everywhere.popup/0.23.1280.777/1280.-82.1920.1057@0.23.1280.777" timestamp="1598291477999" />
+    <state x="1905" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1280.777/1280.-82.1920.1057@1280.-82.1920.1057" timestamp="1598024583966" />
+  </component>
+</project>

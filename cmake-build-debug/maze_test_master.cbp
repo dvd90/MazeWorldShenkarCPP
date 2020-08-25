@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="maze_test_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/liadgez/Shenkar 2020/maze proj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/liadgez/Shenkar 2020/maze proj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/liadgez/Shenkar 2020/maze proj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="maze_test_master">
+				<Option output="/Users/liadgez/Shenkar 2020/maze proj/cmake-build-debug/maze_test_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liadgez/Shenkar 2020/maze proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/liadgez/Shenkar 2020/maze proj/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 maze_test_master"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="maze_test_master/fast">
+				<Option output="/Users/liadgez/Shenkar 2020/maze proj/cmake-build-debug/maze_test_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liadgez/Shenkar 2020/maze proj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/liadgez/Shenkar 2020/maze proj/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 maze_test_master/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liadgez/Shenkar\ 2020/maze\ proj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/AstarSolver.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/AstarSolver.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/BFSSolver.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/BFSSolver.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Controller.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Controller.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Interface.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Interface.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Maze2d.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Maze2d.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Maze2dGenerator.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Maze2dGenerator.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Maze2dGeneratorAbs.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Maze2dGeneratorAbs.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/MazeCompress.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/MyMaze2dGenerator.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/MyMaze2dGenerator.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Position.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Searchable.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/Searchable.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/SimpleMaze2dGenerator.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/SimpleMaze2dGenerator.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/main.cpp">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/universal.h">
+			<Option target="maze_test_master"/>
+		</Unit>
+		<Unit filename="/Users/liadgez/Shenkar 2020/maze proj/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

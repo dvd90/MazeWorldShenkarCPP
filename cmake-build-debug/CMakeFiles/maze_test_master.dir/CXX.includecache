@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liadgez/Shenkar 2020/maze proj/Interface.cpp
+Interface.h
+/Users/liadgez/Shenkar 2020/maze proj/Interface.h
+Maze2dGenerator.h
+/Users/liadgez/Shenkar 2020/maze proj/Maze2dGenerator.h
+
+/Users/liadgez/Shenkar 2020/maze proj/Interface.h
+Maze2d.h
+/Users/liadgez/Shenkar 2020/maze proj/Maze2d.h
+filesystem
+-
+
+/Users/liadgez/Shenkar 2020/maze proj/Maze2d.h
+string
+-
+utility
+-
+vector
+-
+Position.h
+/Users/liadgez/Shenkar 2020/maze proj/Position.h
+iostream
+-
+universal.h
+/Users/liadgez/Shenkar 2020/maze proj/universal.h
+stack
+-
+map
+-
+
+/Users/liadgez/Shenkar 2020/maze proj/Maze2dGenerator.h
+iostream
+-
+vector
+-
+random
+-
+Maze2d.h
+/Users/liadgez/Shenkar 2020/maze proj/Maze2d.h
+
+/Users/liadgez/Shenkar 2020/maze proj/Position.h
+iostream
+-
+
+/Users/liadgez/Shenkar 2020/maze proj/universal.h
+random
+-
+ctime
+-
+
